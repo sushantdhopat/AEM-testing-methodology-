@@ -1,4 +1,4 @@
-# AEM-Security
+# AEM testing methodology 
 
 Automation tool by 0ang3el
 
